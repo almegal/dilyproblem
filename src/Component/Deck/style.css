@@ -1,0 +1,11 @@
+.deck-component {
+  position: relative;
+  top: 250px;
+  width: 30%;
+  left: 100px;
+  display: inline-block;
+}
+
+.level {
+  margin: auto;
+}

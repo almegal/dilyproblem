@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.title-text {
+  position: absolute;
+  width: 500px;
+  margin: 0  40%;
+  font-weight: 100;
+  font-family: monospace;
+}
